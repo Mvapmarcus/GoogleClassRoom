@@ -1,3 +1,6 @@
+# exercício 16 - ônibus de Graça
+# Verifica se o usuário pode pegar o ônibus de Graça
+
 idade = int(input('Digite a sua idade: '))
 empregado = input('Você está empregado? (sim/não): ')
 

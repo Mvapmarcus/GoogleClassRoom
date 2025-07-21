@@ -1,3 +1,6 @@
+# exercício 1 - Operações Matemáticas
+# Realiza operações matemáticas básicas entre dois números
+
 n1 = float(input('Digite um número'))
 n2 = float(input('Digite um número'))
 soma = n1 + n2

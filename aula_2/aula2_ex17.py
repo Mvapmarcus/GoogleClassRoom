@@ -1,3 +1,6 @@
+# exercício 17 - Bônus de Funcionário
+# Verifica se o funcionário tem direito a bônus com base nos anos de serviço e avaliação
+
 anos = float(input('Quantos anos você trabalha na empresa? '))
 avaliacao = float(input('Qual a sua avaliação de desempenho? (0 a 10): '))
 

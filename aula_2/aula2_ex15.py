@@ -1,3 +1,6 @@
+# exercício 15 - Desconto na Compra
+# Verifica se o usuário tem direito a desconto com base na idade e valor da compra
+
 idade = int(input("Digite a sua idade: "))
 valor = float(input("Digite o valor da compra: "))
 

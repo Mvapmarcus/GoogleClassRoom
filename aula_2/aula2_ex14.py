@@ -1,3 +1,6 @@
+# exercício 14 - Maior Número
+# Compara três números e exibe o maior
+
 numero_1 = float(input("Digite o primeiro número: "))
 numero_2 = float(input("Digite o segundo número: "))
 numero_3 = float(input("Digite o terceiro número: "))

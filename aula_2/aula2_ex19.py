@@ -1,3 +1,6 @@
+# exercício 19 - Empréstimo
+# Verifica se o usuário pode obter um empréstimo com base na renda, idade e aposentadoria
+
 renda = float(input('Qual a sua renda? '))
 idade = int(input('Qual a sua idade? '))
 aposentado = input('Você é aposentado? (sim/não) ')

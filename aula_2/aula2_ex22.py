@@ -1,3 +1,6 @@
+#exercício 22 - Caixa Eletrônico
+# Verifica se o valor do saque é válido e fornece as notas correspondentes
+
 valor = int(input("Digite o valor do saque: "))
 
 if valor < 10 or valor > 600:

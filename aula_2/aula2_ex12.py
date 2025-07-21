@@ -1,3 +1,6 @@
+# exercício 12 - Sentimentos
+# Classifica sentimentos como positivo, negativo ou neutro
+
 sentimento = input('Digite um sentimento:')
 
 if sentimento == 'amor':

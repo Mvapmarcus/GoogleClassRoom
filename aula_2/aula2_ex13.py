@@ -1,3 +1,6 @@
+# exercício 13 - Login e Senha
+# Verifica se o login e senha correspondem aos cadastrados
+
 login = input('Digite o login: ')
 senha = input('Digite a senha: ')
 

@@ -1,3 +1,6 @@
+# exercício 20 - Ingresso de Cinema
+# Verifica se o usuário paga meia entrada ou inteira
+
 estudante = input('Você é estudante? (sim/não):')
 idade = int(input('Qual a sua idade? '))
 dia = int(input('''Qual o dia da semana?

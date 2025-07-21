@@ -1,3 +1,6 @@
+# exercício 21 - Média e Conceito
+# Calcula a média de duas notas e atribui um conceito de acordo com a média
+
 nota_1 = float(input('Digite a primeira nota:'))
 nota_2 = float(input('Digite a segunda nota:'))
 media = (nota_1 + nota_2) / 2 

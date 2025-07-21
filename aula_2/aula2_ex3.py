@@ -1,3 +1,6 @@
+# exercício 3 - Números Iguais
+# Verifica se dois números são iguais ou diferentes
+
 numero_1 = float(input('Digite um número:'))
 numero_2 = float(input('Digite um número:'))
 
