@@ -13,7 +13,8 @@ else:
     for i in range(1,(parcela+1)):
         if i <= parcela_paga:
             print(f'Parcela {i}: R${valor_parcela:.2f} Resto  da meta: R${resto:.2f}')
-        elif i > parcela_paga:
+        else:
+            i > parcela_paga
             resto = resto - valor_parcela
             parcela_paga += 1             
             print(f'Parcela {i}: R${valor_parcela:.2f} Resto da meta: R${resto:.2f}')
